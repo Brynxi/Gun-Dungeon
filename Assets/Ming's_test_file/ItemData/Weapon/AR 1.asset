@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d13b04694d23054a8d77a5ca927d912, type: 3}
+  m_Name: AR 1
+  m_EditorClassIdentifier: 
+  itemName: Assualt Rilfe
+  itemDes: Longer you hold, hotter you feel
+  Dmg: 5
+  Price: 5000
+  effect_value: 0
+  itemSprite: {fileID: 21300000, guid: 8eb9cbffb479d594995435e1116194af, type: 3}
+  itemType: 0
+  _Pref: {fileID: 5989864994118814570, guid: 0a1e34a0502e7574cabb4ba0474a5b5f, type: 3}
+  _bulletPpref: {fileID: 3540015311699416596, guid: 8de0bf080c41c4143ad8fbef546f0322, type: 3}
+  _ItemSound0: {fileID: 8300000, guid: 5b8901772ab55c64baaba01ecc55281c, type: 3}
+  _ItemSound1: {fileID: 0}
+  Code: Item_WAR1_AR
+  FireRateTime: 0
+  MaxAmmo: 10
+  ReloadTime: 3
+  GunReloadAudio: {fileID: 8300000, guid: 08afe7c4871525f41a793928eabc1eda, type: 3}
